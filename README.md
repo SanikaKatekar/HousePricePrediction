@@ -16,4 +16,4 @@ This is the directory structure of the project:
 3. Ensure that all necessary dependencies from `requirements.txt` are installed, and the dataset is in the correct format before running the scripts.
 
 ## Bonus
-For the bonus assignment related to preparing a deployment and monitoring plan, please refer to the [Bonus Assignment PDF]([BonusDeploymentPlan](https://github.com/SanikaKatekar/ML-Housing-Price-Deployment/blob/main/BonusDeploymentPlan.pdf)https://github.com/SanikaKatekar/ML-Housing-Price-Deployment/blob/main/BonusDeploymentPlan.pdf).
+For the bonus assignment related to preparing a deployment and monitoring plan, please refer to the [Bonus Assignment PDF](https://github.com/SanikaKatekar/ML-Housing-Price-Deployment/blob/main/BonusDeploymentPlan.pdf).
